@@ -14,7 +14,7 @@ Nous concevons et développons des produits digitaux depuis plus de 20 ans : app
    
    -  [Frigo Magic](https://apps.apple.com/fr/app/frigo-magic/id498272032) — Application anti-gaspi, 3M téléchargements
    -  [CraftJS](https://craftjs.app) — Client desktop LLM multi-modèles (OpenAI, Anthropic, Gemini, Mistral)
-   -  [bymuriel.fr](https://bymuriel.fr) — Boutique avec pipeline ComfyUI + Flux2
+   -  [bymuriel.fr](https://bymuriel.fr) — Boutique Shopify avec pipeline ComfyUI + Flux2
          
 - ## Contact
          
