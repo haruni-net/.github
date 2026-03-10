@@ -7,7 +7,7 @@ Nous concevons et développons des produits digitaux depuis plus de 20 ans : app
 ## Ce qu'on fait
 
 - 🤖 **IA Générative** — orchestration LLM, agents autonomes, pipelines RAG, génération d'images (ComfyUI, Flux)
-   -  ☁️ **Cloud AWS** — architecture serverless, déploiement, scalabilité
+   -  ☁️ **Cloud AWS / Scaleway** — architecture serverless, déploiement, scalabilité
    -  📱 **Web & Mobile** — React, Swift, Node.js, HTMX
    
 - ## Projets
